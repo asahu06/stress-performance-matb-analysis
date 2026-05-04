@@ -1,0 +1,11 @@
+# Ignore all spreadsheet and data files
+*.csv
+*.mat
+*.zip
+
+# Ignore specific large folders
+PPG/
+MATB-II/
+
+# Ignore MATLAB's internal 'asv' (autosave) files
+*.asv
